@@ -23,7 +23,6 @@ If building on an existing project:
      b. Locate any inheritances that can be used<br />
      c. Follow same process as starting from scratch.<br />
 <br />
-<br />
 3. What does it mean to be a good team member in software development?
 <br />
 <br />
