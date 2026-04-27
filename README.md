@@ -11,12 +11,13 @@
 <br />
  - Developing a program will begin from the User Stories. One would first review the stories assigned to them to identify which ones take priority, as well as if any have any dependencies on another. Additionally, it'll be beneficial to make sure none of the stories have any dependencies on outside factors, such as another developers assignments, or an external factor. Once these requirements are defined, development can begin. Starting from scratch:
 <br />
+<br />
      a. Build out the framework first <br />
      b. Build intial methods that will either be user events or main methods through the flow of the process.<br />
      c. Build out the detailed methods that handle the nitty gritty.<br />
 <br />
-<br />
 If building on an existing project:
+<br />
 <br />
      a. Identify where to add new code<br />
      b. Locate any inheritances that can be used<br />
