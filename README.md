@@ -10,15 +10,21 @@
 <br />
 <br />
  - Developing a program will begin from the User Stories. One would first review the stories assigned to them to identify which ones take priority, as well as if any have any dependencies on another. Additionally, it'll be beneficial to make sure none of the stories have any dependencies on outside factors, such as another developers assignments, or an external factor. Once these requirements are defined, development can begin. Starting from scratch:
-     a. Build out the framework first
-     b. Build intial methods that will either be user events or main methods through the flow of the process.
-     c. Build out the detailed methods that handle the nitty gritty.
+<br />
+     a. Build out the framework first <br />
+     b. Build intial methods that will either be user events or main methods through the flow of the process.<br />
+     c. Build out the detailed methods that handle the nitty gritty.<br />
+<br />
+<br />
 If building on an existing project:
-     a. Identify where to add new code
-     b. Locate any inheritances that can be used
-     c. Follow same process as starting from scratch.
-
+<br />
+     a. Identify where to add new code<br />
+     b. Locate any inheritances that can be used<br />
+     c. Follow same process as starting from scratch.<br />
+<br />
+<br />
 3. What does it mean to be a good team member in software development?
-
+<br />
+<br />
  - Communication with care. Whether that be a compliment or criticism, always communicate with the team when able, and communicate with concern for the person on the other end. Not every conversation will be a positive one, but as long as one is communicating to help uplift the team, the result of the conversation should always end beneficial. A team can only reach its max potential if everyone wants to perform their best, which requires max chemistry amongst the team. Teamwork truly does make the dream work.
 
