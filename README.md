@@ -1,10 +1,10 @@
 # CS-250_SNHU_Travel_Project
-
-
+<br />
+<br />
 1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-
+<br />
  - User needs are what ultimately define what the final product should be. These needs are typically explained to the product owner, who should further delve into those needs by asking why they need it. These needs can then be documented via "User Stories" to elaborate the priority of each need, as well as the technical aspects of each need. As a developer, it would be important to review the User Stories and ensure they are clear and concise so that their is no room to question the product being created.
-  
+<br />  
 2. How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 
  - Developing a program will begin from the User Stories. One would first review the stories assigned to them to identify which ones take priority, as well as if any have any dependencies on another. Additionally, it'll be beneficial to make sure none of the stories have any dependencies on outside factors, such as another developers assignments, or an external factor. Once these requirements are defined, development can begin. Starting from scratch:
